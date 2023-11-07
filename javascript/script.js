@@ -1,2 +1,2 @@
 
-console.log("botostart2")
+console.log("botostart")
